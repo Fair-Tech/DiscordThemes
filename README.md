@@ -14,5 +14,5 @@
 
 <h2>Customization</h2>
 
-You can easily customize this theme by editing the .theme.css file!
+You can easily customize these themes by editing the .theme.css file!
 Just change the variables to whatever you want!
