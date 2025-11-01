@@ -31,7 +31,7 @@
 
 	/* MESSAGE SETTINGS */
 	--message-color: hsl(0,0%,0%,0.4);
-	--message-radius: 8px;
+	--message-radius: 4px;
 	--message-padding-top: 4px;
 	--message-padding-side: 4px;
 
