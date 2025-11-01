@@ -11,7 +11,7 @@
   --sidebar-color: rgba(var(--main-rgb), var(--sidebar-opacity));
   /* ACCENT HSL AND TEXT COLOR SETTINGS */
   --accent-hue: 180;
-  --accent-saturation: 77.5%;
+  --accent-saturation: 100%;
   --accent-lightness: 50.0%;
   --accent-hsl: var(--accent-hue),calc(var(--accent-saturation) * var(--saturation-factor)),var(--accent-lightness);
   --accent-test: hsl(180,100%,50%)

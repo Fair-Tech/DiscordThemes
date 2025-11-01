@@ -5,10 +5,10 @@
  * @author FairTech
  *
  * @website https://github.com/Fair-Tech
- * @source https://github.com/CapnKitten/BetterDiscord/blob/master/Themes/Translucence/css/source.css
+ * @source https://github.com/Fair-Tech/DiscordThemes/tree/main/FairTech
  */
 
-@import url(https://capnkitten.github.io/BetterDiscord/Themes/Translucence/css/source.css);
+@import url(https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/css/source.css);
 
 :root {
 	/* APP ELEMENTS */
@@ -18,9 +18,9 @@
 	--app-radius: 8px;
 
 	/* ACCENT HSL AND TEXT COLOR SETTINGS */
-	--accent-hue: 156;
+	--accent-hue: 180;
 	--accent-saturation: 77.5%;
-	--accent-lightness: 47.1%;
+	--accent-lightness: 50%;
 	--accent-opacity: 1;
 	--accent-text-color: hsl(0,0%,0%);
 
