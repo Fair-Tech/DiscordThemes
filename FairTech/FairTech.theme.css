@@ -32,8 +32,8 @@
 	/* MESSAGE SETTINGS */
 	--message-color: hsl(0,0%,0%,0.4);
 	--message-radius: 8px;
-	--message-padding-top: 8px;
-	--message-padding-side: 8px;
+	--message-padding-top: 4px;
+	--message-padding-side: 4px;
 
 	/* REPLY HSL COLOR SETTINGS */
 	--reply-hue: 226;
