@@ -24,6 +24,7 @@
   --alert-saturation: 66.7%;
   --alert-lightness: 54.1%;
   --alert-hsl: var(--alert-hue),calc(var(--alert-saturation) * var(--saturation-factor)),var(--alert-lightness);
+  --alert-test: hsl(359,66.7%,54.1%)
   --alert-opacity: 1;
   --alert-action-color: hsl(0,0%,100%);
   --alert-text-color: hsl(0,0%,100%);
@@ -32,7 +33,7 @@
   --mention-saturation: var(--accent-saturation);
   --mention-lightness: var(--accent-lightness);
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
-  --mention-opacity: 1;
+  --mention-opacity: 0.2;
   /* REPLY HSL COLOR SETTINGS */
   --reply-hue: 226;
   --reply-saturation: 77.4%;
