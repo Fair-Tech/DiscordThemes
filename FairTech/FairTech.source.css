@@ -33,7 +33,7 @@
   --mention-saturation: var(--accent-saturation);
   --mention-lightness: var(--accent-lightness);
   --mention-hsl: var(--mention-hue),calc(var(--mention-saturation) * var(--saturation-factor)),var(--mention-lightness);
-  --mention-opacity: 0.2;
+  --mention-opacity: 0.5;
   /* REPLY HSL COLOR SETTINGS */
   --reply-hue: 226;
   --reply-saturation: 77.4%;
@@ -41,10 +41,10 @@
   --reply-hsl: var(--reply-hue),calc(var(--reply-saturation) * var(--saturation-factor)),var(--reply-lightness);
   --reply-opacity: 1;
   /* MESSAGE COLOR SETTINGS */
-  --message-color: hsl(0,0%,0%,0.4);
-  --message-color-hover: hsl(0,0%,0%,0.55);
+  --message-color: hsl(0,0%,0%,0.0);
+  --message-color-hover: hsl(0,0%,0%,0.0);
   --message-radius: var(--app-radius);
-  --message-padding-top: 2px;
+  --message-padding-top: 0px;
   --message-padding-side: 4px;
   --notification-color: hsl(0,0%,100%);
   --list-item-radius: var(--app-radius);

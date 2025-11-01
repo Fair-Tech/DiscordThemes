@@ -30,9 +30,9 @@
 	--main-content-color: hsl(0,0%,0%,0.2);
 
 	/* MESSAGE SETTINGS */
-	--message-color: hsl(0,0%,0%,0.4);
+	--message-color: hsl(0,0%,0%,0.0);
 	--message-radius: 4px;
-	--message-padding-top: 2px;
+	--message-padding-top: 0px;
 	--message-padding-side: 4px;
 
 	/* REPLY HSL COLOR SETTINGS */
