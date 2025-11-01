@@ -7,13 +7,14 @@
  * @website https://github.com/Fair-Tech
  * @source https://github.com/Fair-Tech/DiscordThemes/tree/main/FairTech
  */
+ 
 
-@import url(https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/css/source.css);
+@import url(https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/FairTech.source.css);
 
 :root {
 	/* APP ELEMENTS */
 	--app-bg: url(https://assets.fairtech.app/images/Topography.png);
-	--app-blur: 6px;
+	--app-blur: 3px;
 	--app-margin: 24px;
 	--app-radius: 8px;
 
