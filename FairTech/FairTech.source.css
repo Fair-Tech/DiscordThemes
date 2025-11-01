@@ -2823,7 +2823,6 @@ body {
 }
 .wrapper_c19a55.mentioned__5126c {
   border-color: hsla(var(--mention-hsl), var(--mention-opacity));
-  box-shadow: 0px 0px 3px 4px hsla(var(--mention-hsl), var(--mention-opacity));
 }
 .wrapper_c19a55.mentioned__5126c:before {
   display: none;
