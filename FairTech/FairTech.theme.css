@@ -32,7 +32,7 @@
 	/* MESSAGE SETTINGS */
 	--message-color: hsl(0,0%,0%,0.4);
 	--message-radius: 4px;
-	--message-padding-top: 4px;
+	--message-padding-top: 2px;
 	--message-padding-side: 4px;
 
 	/* REPLY HSL COLOR SETTINGS */
