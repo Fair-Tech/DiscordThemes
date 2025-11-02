@@ -1243,7 +1243,7 @@ body {
 
 .vc-rdb-input {
   --textarea-background: rgba(var(--textarea-color), var(--textarea-alpha));
-  margin-top: 4px !important;
+  margin-top: 12px !important;
   background-color: var(--textarea-background) !important;
   border-radius: 22px !important;
   border: none !important;
