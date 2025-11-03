@@ -750,7 +750,7 @@ body {
 .typing_b88801 {
   position: absolute;
   width: calc(100% - 32px);
-  height: 24px;
+  height: 12px;
   top: -12px;
   left: unset;
   right: unset;
