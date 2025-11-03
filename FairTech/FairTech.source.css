@@ -451,7 +451,7 @@ body {
 
 .chatTypingGradientAtBottom__36d07,
 .chatTypingGradientNotAtBottom__36d07 {
-  height: var(--space-24);
+  height: var(--space-12);
 }
 
 .emptyChannelIcon__00de6 {
@@ -751,7 +751,7 @@ body {
   position: absolute;
   width: calc(100% - 32px);
   height: 12px;
-  top: -12px;
+  top: -4px;
   left: unset;
   right: unset;
   margin-top: 0;
