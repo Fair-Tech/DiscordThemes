@@ -710,8 +710,8 @@ body {
 }
 
 .channelBottomBarArea_f75fb0 {
-  margin: 12px 0;
-  gap: var(--space-8);
+  margin: 4px 0;
+  gap: var(--space-12);
 }
 
 .channelTextArea__74017,
