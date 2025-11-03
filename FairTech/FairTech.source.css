@@ -711,7 +711,7 @@ body {
 
 .channelBottomBarArea_f75fb0 {
   margin: 12px 0;
-  gap: var(--space-16);
+  gap: var(--space-4);
 }
 
 .channelTextArea__74017,
@@ -751,7 +751,7 @@ body {
   position: absolute;
   width: calc(100% - 32px);
   height: 12px;
-  top: -4px;
+  top: -12px;
   left: unset;
   right: unset;
   margin-top: 0;
