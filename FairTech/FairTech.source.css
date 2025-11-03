@@ -451,7 +451,7 @@ body {
 
 .chatTypingGradientAtBottom__36d07,
 .chatTypingGradientNotAtBottom__36d07 {
-  height: var(--space-12);
+  height: var(--space-8);
 }
 
 .emptyChannelIcon__00de6 {
@@ -710,8 +710,8 @@ body {
 }
 
 .channelBottomBarArea_f75fb0 {
-  margin: 4px 0;
-  gap: var(--space-12);
+  margin: 8px 0;
+  gap: var(--space-8);
 }
 
 .channelTextArea__74017,
@@ -750,8 +750,8 @@ body {
 .typing_b88801 {
   position: absolute;
   width: calc(100% - 32px);
-  height: 12px;
-  top: -12px;
+  height: 6px;
+  top: -6px;
   left: unset;
   right: unset;
   margin-top: 0;
