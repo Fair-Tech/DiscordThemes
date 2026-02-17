@@ -70,28 +70,6 @@ html.theme-light .sidebar__5e434 .content__99f8c:after {
 /*    margin-left: 10px;*/
 /*}*/
 
-/* REMOVE HIDING FEATURE
-
-/* Hide all immediate children
-.panels__5e434 .buttons__37e49 > * {
-    opacity: 0;
-    transition: all 0.3s;
-}
-*/
-
-/* Make the last child (settings icon) visible by default 
-.panels__5e434 .buttons__37e49 > :nth-last-child(1) {
-    opacity: 1;
-}
-*/
-
-
-/* When hovering over the container, show all children 
-.panels__5e434 .buttons__37e49:hover > * {
-    opacity: 1;
-}
-*/
-
 .buttons__37e49 {
     width: 100%;
     justify-content: space-evenly;
