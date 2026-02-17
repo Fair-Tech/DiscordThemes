@@ -6,17 +6,17 @@
 
 /****ADDONS****/
 @import url("https://mwittrien.github.io/BetterDiscordAddons/Themes/BlurpleRecolor/BlurpleRecolor.css");
-@import url("https://warrayquipsome.github.io/Chillax/ChillaxTag.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/SettingsModalEdited.css");
-@import url("https://warrayquipsome.github.io/Chillax/Addons/AccountDetailsGrid.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Addons/FairTechTag.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Addons/SettingsModalEdited.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Addons/AccountDetailsGrid.css");
 
 /****FAIRTECH COMPONENTS****/
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/WindowsButtons.css");
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/UserArea.css");
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/Embeds.css");
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/ChatArea.css");
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/ChannelHeader.css");
-@import url("https://github.com/Fair-Tech/DiscordThemes/FairTech/Components/EmojiPicker.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/WindowsButtons.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/UserArea.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/Embeds.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/ChatArea.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/ChannelHeader.css");
+@import url("https://raw.githubusercontent.com/Fair-Tech/DiscordThemes/refs/heads/main/FairTech/Components/EmojiPicker.css");
 
 /***TRANSPARENT CODES***/
 /**transparent part LVL I**/
@@ -2237,7 +2237,7 @@ button {
     display: none;
 }
 
-#Chillax-card [href='https\:\/\/github.com/warrayquipsome/Chillax'] {
+#Chillax-card [href='https\:\/\/github.com/Fair-Tech/DiscordThemes'] {
     color: #fff !important;
 }
 
