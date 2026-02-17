@@ -3,7 +3,7 @@
 }
 
 html.theme-dark .embed__623de code {
-    background: rgb(51, 50, 53);
+    background: rgb(17,17,17);
 }
 
 html.theme-light .embed__623de code {
@@ -17,8 +17,8 @@ html.theme-light .embed__623de code {
 }
 
 html.theme-dark .embedFull__623de {
-    background: rgb(51, 50, 53);
-    box-shadow: 2px 2px 8px rgb(42, 42, 46);
+    background: rgb(17,17,17);
+    box-shadow: 2px 2px 8px rgb(0,0,0);
 }
 
 html.theme-light .embedFull__623de {
@@ -44,7 +44,7 @@ html.theme-light .embedFull__623de {
 }
 
 html.theme-dark .embedFull__623de:after {
-    background: linear-gradient(to right, transparent, rgb(51, 50, 53));
+    background: linear-gradient(to right, transparent, rgb(17,17,17));
 }
 
 html.theme-light .embedFull__623de:after {
@@ -57,7 +57,7 @@ html.theme-light .embedFull__623de:after {
 }
 
 html.theme-dark .embedFull__623de:before {
-    background: rgb(51, 50, 53);
+    background: rgb(17,17,17);
 }
 
 html.theme-light .embedFull__623de:before {
